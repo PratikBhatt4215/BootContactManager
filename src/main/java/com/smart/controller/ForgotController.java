@@ -28,7 +28,6 @@ public class ForgotController {
 	@Autowired
 	private BCryptPasswordEncoder bcrypt;
 	
-
 	//email id form open  handler
 	@RequestMapping("/forgot")
 	public String openEmailForm()
