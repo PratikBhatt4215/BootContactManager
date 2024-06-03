@@ -25,7 +25,7 @@ public class SmartcontactmanagerApplication implements CommandLineRunner  {
 //		System.out.println(encode);		
 //		String str1="pratik";
 //		String encode2 = this.bryBCryptPasswordEncoder.encode(str1);		
-//		System.out.println(this.bryBCryptPasswordEncoder.matches("durges352h",encode));
+//		System.out.println(this.bryBCryptPasswordEncoder.matches("pratik",encode));
 //		
 		
 	}
